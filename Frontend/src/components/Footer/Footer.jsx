@@ -9,11 +9,11 @@ const Footer = () => {
         <ul className='flex gap-7'>
           <li><a href="/">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="https://www.linkedin.com/in/ashishbmishra/">Contact</a></li>
+          <li><a href="https://www.linkedin.com/in/nancyy56">Contact</a></li>
         </ul>
       </nav>
       <div>
-        Made with love by <a href="https://www.linkedin.com/in/ashishbmishra/" className='hover:underline'>@AshishMishra</a> ❤️
+        Built by <a href="https://www.linkedin.com/in/nancyy56" className='hover:underline'>Nancy Yadav</a> 🚀
       </div>
       </div>
   )

@@ -62,7 +62,7 @@ export const Hero = () => {
 
       <div className="relative flex flex-col items-center justify-center px-10 lg:px-70 z-10 h-fit">
         <p className="text-white text-3xl font-semibold tracking-tight text-center mb-10 md:text-4xl">
-          INSTAGRAM REELS DOWNLOAD
+          ReelVault - Instagram Reel Downloader
         </p>
         <div className="flex w-full mb-2">
           <input

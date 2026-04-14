@@ -4,7 +4,7 @@ const HeroTwo = () => {
         <div className='lg:w-[70%] mb-2'>
             <h1 
             className='text-3xl font-bold leading-none text-center md:text-left text-[var(--red)] mb-5 md:text-4xl md:px-20 px-2'>
-                Instagram Reels Downloader Online
+              ReelVault - Instagram Reel Downloader
             </h1>
             <p className='px-10 md:px-20 text-gray-600'>Downloading Instagram Reels has never been easier or safer with our Instagram Reels Video Downloader. We've designed our tool to help you seamlessly save Reels videos in stunning HD MP4 quality directly to your device's gallery. The best part? It's completely free and works on both Android and iPhone, so you can download Instagram Reels anytime, anywhere.</p>
         </div>

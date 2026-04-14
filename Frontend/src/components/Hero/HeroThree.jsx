@@ -6,7 +6,7 @@ const HeroThree = () => {
     <div className="flex justify-center m-5 md:mx-20 lg:px-20 lg:mx-40 bg-transparent">
       <div className="bg-transparent text-white p-8 lg:px-20 rounded-2xl w-full">
         <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center underline">
-          Steps for downloading a reels from our Website
+          Steps to Download a Reel from ReelVault
         </h2>
         <ol className="list-decimal list-inside space-y-5 text-base md:text-lg">
           <li>
