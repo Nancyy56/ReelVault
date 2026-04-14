@@ -38,3 +38,6 @@ app.post('/get-reel', async (req, res) => {
 });
 
 app.listen(PORT, () => console.log(`Server is listening on port ${PORT}`));
+app.get("/", (req, res) => {
+  res.send("ReelVault Backend is running 🚀");
+});
