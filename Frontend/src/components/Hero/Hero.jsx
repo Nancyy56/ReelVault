@@ -20,7 +20,7 @@ export const Hero = () => {
 
     try {
       const response = await fetch(
-        "https://reelify-backend-xjn1.onrender.com/get-reel",
+        "/api/get-reel",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
