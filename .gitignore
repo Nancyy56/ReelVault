@@ -1,0 +1,33 @@
+# === Backend ===
+Backend/node_modules/
+Backend/.env
+Backend/logs/
+Backend/*.log
+Backend/*.pid
+Backend/coverage/
+Backend/dist/
+
+# === Frontend ===
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env.local
+Frontend/.env.development
+Frontend/.env.production
+Frontend/coverage/
+
+# === Shared ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Optional lockfiles (pick your package manager) ===
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
